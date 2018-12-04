@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project name="pavankatari/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="github" revision="bootlegger-pie" />
-	<project name="StrangeNoob/platform_kernel_xiaomi_santoni" path="kernel/xiaomi/santoni" remote="github" revision="9.0" />
+	<project name="pavankatari/android_kernel_xiaomi_santoni" path="kernel/xiaomi/msm8937" remote="github" revision="clarity-op" />
 	<project name="pavankatari/android_vendor_xiaomi_santoni" path="vendor/xiaomi"		remote="github" revision="pie" />
 </manifest>
